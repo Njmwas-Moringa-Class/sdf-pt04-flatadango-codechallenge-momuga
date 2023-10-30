@@ -53,3 +53,18 @@ img {
 #film-info {
   padding-bottom: 15px;
 }
+
+.movie-list{
+  border-bottom: 1px solid #000;
+}
+
+.movie-list li:last-clild{
+  border-bottom: none;
+}
+.list-format{
+  text-transform: uppercase;
+  color: #000000;
+}
+.ui-divided-list{
+  list-style-type: none;
+}
